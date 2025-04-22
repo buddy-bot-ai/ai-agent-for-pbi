@@ -13,4 +13,4 @@ easyocr
 anthropic
 
 # Torch-related packages are installed separately due to CUDA requirement:
-# See install_torch.sh for details.
+# See install_torch.txt for details.
