@@ -1,0 +1,16 @@
+# Jupyter environment
+notebook
+ipykernel
+
+# Core dependencies
+opencv-python
+numpy
+matplotlib
+Pillow
+pyautogui
+mss
+easyocr
+anthropic
+
+# Torch-related packages are installed separately due to CUDA requirement:
+# See install_torch.sh for details.
